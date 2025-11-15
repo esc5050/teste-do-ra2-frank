@@ -35,18 +35,6 @@ O projeto consiste em um único arquivo `Main.hs` e não requer bibliotecas exte
 2.  Clique no botão **"Run"** (Verde) no topo da tela.
 3.  O código será compilado e o programa iniciará no terminal inferior.
 
-### Executando Localmente (via GHCi)
-1.  Certifique-se de ter o [GHC (Glasgow Haskell Compiler)](https://www.haskell.org/ghcup/) instalado.
-2.  Navegue até o diretório do projeto.
-3.  Carregue o módulo no GHCi:
-    ```bash
-    $ ghci Main.hs
-    ```
-4.  Execute a função principal:
-    ```haskell
-    Prelude> :main
-    ```
-
 ### Arquivos Gerados
 O programa utiliza dois arquivos para persistência:
 * `Inventario.dat`: Armazena o estado atual do inventário. É **sobrescrito** a cada operação de sucesso.
