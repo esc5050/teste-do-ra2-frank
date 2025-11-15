@@ -21,8 +21,8 @@ Este projeto é um sistema de gerenciamento de inventário interativo via termin
 
 O projeto pode ser executado, testado e compilado sem modificações diretamente no GDB Online através do seguinte link:
 
-**[Link para o GDB Online com o projeto pronto para rodar]**
-*(Substitua este texto pelo link "Share" do GDB Online)*
+**(https://onlinegdb.com/OwepNmwlJT)**
+
 
 ---
 
