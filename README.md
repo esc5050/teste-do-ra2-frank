@@ -48,7 +48,7 @@ O projeto consiste em um único arquivo `Main.hs` e não requer bibliotecas exte
     ```
 
 ### Arquivos Gerados
-O programa utiliza dois arquivos para persistência (Req 2.2, 3):
+O programa utiliza dois arquivos para persistência:
 * `Inventario.dat`: Armazena o estado atual do inventário. É **sobrescrito** a cada operação de sucesso.
 * `Auditoria.log`: Armazena **todas** as tentativas de operação (sucesso ou falha) em modo "append-only".
 
@@ -184,7 +184,7 @@ Estado salvo. Encerrando...
 ```
 ---
 
-## 5. Dados Mínimos de Teste (Req 4.1)
+## 5. Dados Mínimos de Teste 
 
 ## Testes Manuais
 
